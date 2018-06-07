@@ -12,7 +12,7 @@
   
 ## 目录
 
-## [三、webpack](https://github.com/hblvsjtu/React_Study/blob/master/三、webpack.md#3)
+## [三、webpack](https://github.com/hblvsjtu/React_Study/blob/master/三、webpack.md)
 ### [3.1 简介，安装与卸载](https://github.com/hblvsjtu/React_Study/blob/master/三、webpack.md#3.1)
 ### [3.2 一个简单的例子](https://github.com/hblvsjtu/React_Study/blob/master/三、webpack.md#3.2) 
 ### [3.3 资源管理](https://github.com/hblvsjtu/React_Study/blob/master/三、webpack.md#3.3)
