@@ -1,4 +1,4 @@
-# [webpack_Study](https://github.com/hblvsjtu/React_Study/blob/master/三、webpack.md)
+# [webpack_Study](https://github.com/hblvsjtu/webpack_Study/blob/master/README.md)
         
 
 ### 作者：冰红茶  
@@ -12,17 +12,17 @@
   
 ## 目录
 
-## [三、webpack](https://github.com/hblvsjtu/React_Study/blob/master/三、webpack.md#3)
-### [3.1 简介，安装与卸载](https://github.com/hblvsjtu/React_Study/blob/master/三、webpack.md#3.1)
-### [3.2 一个简单的例子](https://github.com/hblvsjtu/React_Study/blob/master/三、webpack.md#3.2) 
-### [3.3 资源管理](https://github.com/hblvsjtu/React_Study/blob/master/三、webpack.md#3.3)
-### [3.4 多文件输入和输出](https://github.com/hblvsjtu/React_Study/blob/master/三、webpack.md#3.4) 
-### [3.5 开发者模式](https://github.com/hblvsjtu/React_Study/blob/master/三、webpack.md#3.5)  
-### [3.6 模块热替换](https://github.com/hblvsjtu/React_Study/blob/master/三、webpack.md#3.6) 
-### [3.7 摇树优化和代码压缩](https://github.com/hblvsjtu/React_Study/blob/master/三、webpack.md#3.7)
-### [3.8 开发模式与产品模式](https://github.com/hblvsjtu/React_Study/blob/master/三、webpack.md#3.8)
-### [3.9 代码拆分](https://github.com/hblvsjtu/React_Study/blob/master/三、webpack.md#3.9)
-### [3.10 懒加载lazy loading](https://github.com/hblvsjtu/React_Study/blob/master/三、webpack.md#3.10)
+## [三、webpack](https://github.com/hblvsjtu/webpack_Study/blob/master/README.md#3)
+### [3.1 简介，安装与卸载](https://github.com/hblvsjtu/webpack_Study/blob/master/README.md#3.1)
+### [3.2 一个简单的例子](https://github.com/hblvsjtu/webpack_Study/blob/master/README.md#3.2) 
+### [3.3 资源管理](https://github.com/hblvsjtu/webpack_Study/blob/master/README.md#3.3)
+### [3.4 多文件输入和输出](https://github.com/hblvsjtu/webpack_Study/blob/master/README.md#3.4) 
+### [3.5 开发者模式](https://github.com/hblvsjtu/webpack_Study/blob/master/README.md#3.5)  
+### [3.6 模块热替换](https://github.com/hblvsjtu/webpack_Study/blob/master/README.md#3.6) 
+### [3.7 摇树优化和代码压缩](https://github.com/hblvsjtu/webpack_Study/blob/master/README.md#3.7)
+### [3.8 开发模式与产品模式](https://github.com/hblvsjtu/webpack_Study/blob/master/README.md#3.8)
+### [3.9 代码拆分](https://github.com/hblvsjtu/webpack_Study/blob/master/README.md#3.9)
+### [3.10 懒加载lazy loading](https://github.com/hblvsjtu/webpack_Study/blob/master/README.md#3.10)
 
         
 ------
